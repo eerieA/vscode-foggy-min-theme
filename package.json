@@ -4,7 +4,7 @@
   "displayName": "Foggy Minimal light theme",
   "description": "A light theme that mimics the palette of a foggy morning",
   "galleryBanner": {
-    "color": "#bf6e7c",
+    "color": "#eeedec",
     "theme": "light"
   },
   "version": "0.0.1",
