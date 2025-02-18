@@ -1,0 +1,31 @@
+{
+  "name": "foggy-min",
+  "icon": "resources/icon.png",
+  "displayName": "Foggy Minimal light theme",
+  "description": "A light theme that mimics the palette of a foggy morning",
+  "galleryBanner": {
+    "color": "#bf6e7c",
+    "theme": "light"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Foggy Minimal",
+        "uiTheme": "vs",
+        "path": "./themes/foggy-min-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "ninjaqwert-2239-indie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eerieA/vscode-foggy-min-theme.git"
+  }
+}
