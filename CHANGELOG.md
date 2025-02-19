@@ -4,6 +4,10 @@ All notable changes to the "foggy-minimal-light" extension will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.4]
 
-- Initial release
+- Added preview image and new icon
+
+## [0.0.3]
+
+- Initial mostly-working release
